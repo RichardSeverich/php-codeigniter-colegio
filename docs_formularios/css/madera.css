@@ -1,0 +1,54 @@
+.commentForm
+{
+    width: 497px;
+    height: 324px;
+    position: relative;
+    background-image: url('comment_form.jpg');
+    background-repeat: no-repeat;
+}
+.commentForm input[type="text"], .commentForm textarea
+{
+    width: 210px;
+    left: 32px;
+    position: absolute;
+    background-repeat: no-repeat;
+    border-width:0px;
+    font-weight:bold;
+    font-family:Arial, Sans-Serif;
+    font-size:0.9em;
+}
+.nameField
+{
+    top: 44px;
+    height: 22px;
+    background-image: url('name_bkg.jpg');
+}
+.emailField
+{
+    top: 90px;
+    height: 22px;
+    background-image: url('email_bkg.jpg');
+}
+.websiteField
+{
+    top: 133px;
+    height: 22px;
+    background-image: url('website_bkg.jpg');
+}
+.commentField
+{
+    top: 178px;
+    height:122px;
+    background-image: url('comment_bkg.jpg');
+}
+.sendButton
+{
+    position:absolute;
+    top:268px;
+    left:362px;
+    width:100px;
+    height:30px;
+    border:solid 2px #000000;
+    background-color:#7c6852;
+    color:#e1cdae;
+}
