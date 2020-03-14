@@ -6,8 +6,7 @@ CASO DE ESTUDIO: UNIDAD EDUCATIVA MARÍA AUXILIADORA CRISTO REY
 ## Prerequisites
 
 1. Install Windows 10    
-2. Install Xampp 1.7.4  
-
+2. Install Xampp 1.8.3
 
 ## Installation
 
