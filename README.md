@@ -23,6 +23,10 @@ CASO DE ESTUDIO: UNIDAD EDUCATIVA MARÍA AUXILIADORA CRISTO REY
 4. Select the file: docs_backup_db/unidadeducativa.sql and press go button.
 5. Configure data base credentials in: application/config/database.php
 6. Enter to: http://localhost/php-codeigniter-colegio/
+Credentials:
+    User: 5928001 Pass: 5928001  Type: Admin.
+    User: 5928001 Pass: 5928001  Type: Secretaria.
+    User: 5928001 Pass: 5928001  Type: Cajero.
 
 ## Contributing
 
